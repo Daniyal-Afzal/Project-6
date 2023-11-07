@@ -1,16 +1,12 @@
-# Project-6
-Chat app in PHP
+# Chat Application using PHP with MySQL & Ajax
 
-TECHNOLOGIES
+version: 1.0.0
 
-PHP
+## TECHNOLOGIES
 
-MYSQL
-
-JQUERY
-
-BOOTSTRAP 5
-
-HTML
-
-CSS
+1. PHP
+1. MYSQL
+1. JQUERY
+1. BOOTSTRAP 5
+1. HTML
+1. CSS
